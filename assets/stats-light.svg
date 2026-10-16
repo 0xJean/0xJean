@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="156" viewBox="0 0 1000 156" role="img" aria-label="16 years shipping software, 10+ years in Web3, 12 years as a founder, $B+ handled by systems I designed"><style>
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+    .serif { font-family: 'Iowan Old Style', 'Palatino Linotype', Georgia, 'Times New Roman', serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+    .ink { fill: #141412; }
+    .muted { fill: #6B6861; }
+    .signal { fill: #FF4A1C; }
+    
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+    </style><rect width="1000" height="156" rx="22" fill="#F5F3EE"/><rect x="0.5" y="0.5" width="999" height="155" rx="22" fill="none" stroke="#D3D0C9"/><text x="32.0" y="84" class="sans ink" font-size="50" font-weight="600" text-anchor="start" letter-spacing="-2">16</text><text x="34.0" y="116" class="sans muted" font-size="17" font-weight="400" text-anchor="start">years shipping software</text><line x1="250.0" y1="30" x2="250.0" y2="126" stroke="#D3D0C9"/><text x="282.0" y="84" class="sans ink" font-size="50" font-weight="600" text-anchor="start" letter-spacing="-2">10+</text><text x="284.0" y="116" class="sans muted" font-size="17" font-weight="400" text-anchor="start">years in Web3</text><line x1="500.0" y1="30" x2="500.0" y2="126" stroke="#D3D0C9"/><text x="532.0" y="84" class="sans ink" font-size="50" font-weight="600" text-anchor="start" letter-spacing="-2">12</text><text x="534.0" y="116" class="sans muted" font-size="17" font-weight="400" text-anchor="start">years as a founder</text><line x1="750.0" y1="30" x2="750.0" y2="126" stroke="#D3D0C9"/><text x="782.0" y="84" class="sans ink" font-size="50" font-weight="600" text-anchor="start" letter-spacing="-2">$B+</text><text x="784.0" y="116" class="sans muted" font-size="17" font-weight="400" text-anchor="start">value through my systems</text></svg>
