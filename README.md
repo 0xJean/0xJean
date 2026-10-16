@@ -35,7 +35,7 @@ I build financial infrastructure for crypto — exchanges, on-chain derivatives,
 ### Open source
 
 <a href="https://github.com/0xJean/StowMind"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/repo-stowmind-dark.svg"><img src="assets/repo-stowmind-light.svg" width="48%" alt="StowMind — smart cleanup and AI file organization desktop app"></picture></a>&nbsp;<a href="https://github.com/0xJean/Jean-Skills"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/repo-jean-skills-dark.svg"><img src="assets/repo-jean-skills-light.svg" width="48%" alt="Jean-Skills — portable Agent Skills, starting with Web3 EVM development"></picture></a>
-<a href="https://github.com/0xJean/jean-website"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/repo-jean-website-dark.svg"><img src="assets/repo-jean-website-light.svg" width="48%" alt="jean-website — personal website with a live WebGL order book"></picture></a>
+<a href="https://github.com/0xJean/shellbeam"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/repo-shellbeam-dark.svg"><img src="assets/repo-shellbeam-light.svg" width="48%" alt="shellbeam — all-in-one SSH client with SFTP, port forwarding, AI assistant and encrypted vault"></picture></a>&nbsp;<a href="https://github.com/0xJean/jean-website"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/repo-jean-website-dark.svg"><img src="assets/repo-jean-website-light.svg" width="48%" alt="jean-website — personal website with a live WebGL order book"></picture></a>
 
 ### Background
 
@@ -54,7 +54,7 @@ I build financial infrastructure for crypto — exchanges, on-chain derivatives,
 
 **行業**：中心化交易所 · 永續合約 DEX · 加密支付 · 量化交易 · DeFi · 託管與錢包安全 · GameFi · NFT · AI × Web3 · AI Agent 與開發工具
 
-**開源專案**：[StowMind](https://github.com/0xJean/StowMind)（智能清理與 AI 檔案整理桌面應用）· [Jean-Skills](https://github.com/0xJean/Jean-Skills)（可攜式 Agent Skills，從 Web3 EVM 開發開始）· [jean-website](https://github.com/0xJean/jean-website)（個人網站）
+**開源專案**：[StowMind](https://github.com/0xJean/StowMind)（智能清理與 AI 檔案整理桌面應用）· [Jean-Skills](https://github.com/0xJean/Jean-Skills)（可攜式 Agent Skills，從 Web3 EVM 開發開始）· [shellbeam](https://github.com/0xJean/shellbeam)（一站式 SSH 客戶端）· [jean-website](https://github.com/0xJean/jean-website)（個人網站）
 
 Telegram：[@Jean0x](https://t.me/Jean0x) · X：[@0x_jean_](https://x.com/0x_jean_) · 網站：[jean-roan-tau.vercel.app](https://jean-roan-tau.vercel.app/?lang=zh)
 

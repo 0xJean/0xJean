@@ -62,7 +62,7 @@ def terminal(t):
         ("whoami", [("Jean — Web3 architect & serial founder", "ink")]),
         ("cat roles", [("Founder · Co-founder · CEO · CTO", "ink")]),
         ("uptime", [("16y engineering · 12y founding · on-chain since 2017", "ink")]),
-        ("ls ~/built", [("exchange/  perp-dex/  payment-rail/  quant-desk/  stowmind/  jean-skills/", "signal")]),
+        ("ls ~/built", [("exchange/  perp-dex/  payment-rail/  quant-desk/  stowmind/  shellbeam/", "signal")]),
     ]
     top, lh = 96, 30
     rows = sum(1 + len(out) for _, out in session) + 1
@@ -155,6 +155,7 @@ def expertise(t):
 # ── Open-source repo cards ──────────────────────────────────
 REPOS = {
     "stowmind": ("StowMind", "Desktop app", ["Smart cleanup and AI file organization —", "privacy-first, rules before AI."], ["Tauri", "React", "Rust"], "#3178C6", "TypeScript"),
+    "shellbeam": ("shellbeam", "SSH client", ["All-in-one SSH client — terminal, SFTP,", "port forwarding, AI and an encrypted vault."], ["Tauri", "Rust", "SFTP"], "#3178C6", "TypeScript"),
     "jean-skills": ("Jean-Skills", "Agent skills", ["Portable skills for Claude Code, Codex,", "Cursor & more — starting with Web3 EVM."], ["Agent Skills", "EVM", "DeFi"], None, "Markdown"),
     "jean-website": ("jean-website", "Personal site", ["My personal website — a live order", "book rendered in WebGL."], ["Three.js", "Vite", "i18n"], "#3178C6", "TypeScript"),
 }
