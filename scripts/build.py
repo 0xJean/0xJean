@@ -225,7 +225,7 @@ def main():
         "footer": footer,
         "btn-telegram": lambda t: button("Message me on Telegram  →", True, t, 280),
         "btn-x": lambda t: button("Follow on X  ↗", False, t, 170),
-        "btn-site": lambda t: button("Website  ↗", False, t, 150),
+        "btn-site": lambda t: button("0xjean.com  ↗", False, t, 170),
     }
     for name, fn in builds.items():
         for theme, t in THEMES.items():
