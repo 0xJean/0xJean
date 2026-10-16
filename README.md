@@ -21,8 +21,8 @@ I build financial infrastructure for crypto — exchanges, on-chain derivatives,
 ### Skills
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=solidity,rust,ts,js,python,react,nextjs,nodejs,tauri,threejs,tailwind,vite,vercel,git&theme=dark&perline=14">
-  <img src="https://skillicons.dev/icons?i=solidity,rust,ts,js,python,react,nextjs,nodejs,tauri,threejs,tailwind,vite,vercel,git&theme=light&perline=14" alt="Solidity, Rust, TypeScript, JavaScript, Python, React, Next.js, Node.js, Tauri, Three.js, Tailwind CSS, Vite, Vercel, Git">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=solidity%2Crust%2Cts%2Cjs%2Cpython%2Creact%2Cnextjs%2Cnodejs%2Ctauri%2Cthreejs%2Ctailwind%2Cvite%2Cvercel%2Cgit&theme=dark&perline=14">
+  <img src="https://skillicons.dev/icons?i=solidity%2Crust%2Cts%2Cjs%2Cpython%2Creact%2Cnextjs%2Cnodejs%2Ctauri%2Cthreejs%2Ctailwind%2Cvite%2Cvercel%2Cgit&theme=light&perline=14" alt="Solidity, Rust, TypeScript, JavaScript, Python, React, Next.js, Node.js, Tauri, Three.js, Tailwind CSS, Vite, Vercel, Git">
 </picture>
 
 <br><br>
