@@ -11,9 +11,11 @@
   <a href="https://jean-roan-tau.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-site-dark.svg"><img src="assets/btn-site-light.svg" height="44" alt="Website"></picture></a>
 </p>
 
-Engineer and serial founder. I started writing production software in 2010, founded my first company in 2014, and went all-in on Web3 in 2017 — drawn less by the tokens than by the engineering problem: financial infrastructure where one bug can cost millions.
+I’ve been writing production software since 2010 and building companies since 2014. In 2017 I moved into crypto full-time — less for the tokens than for the engineering: financial infrastructure where a single bug can cost millions and every minute of downtime costs trust.
 
-Since then I’ve designed and led a centralized exchange, an on-chain perpetuals exchange, a crypto payment network on thousands of point-of-sale terminals, and a quant trading system.
+Since then I’ve taken four products from a blank page to real scale — a centralized exchange, an on-chain perpetuals exchange, a crypto payment network on thousands of point-of-sale terminals, and a quant trading system — as founder, co-founder, CEO or CTO.
+
+> If it moves money, it has to be boring — predictable under load, paranoid about keys, and run by a team that doesn’t need me in the room.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
@@ -53,9 +55,11 @@ Since then I’ve designed and led a centralized exchange, an on-chain perpetual
 <summary><b>繁體中文</b></summary>
 <br>
 
-我是 Jean，工程師，也是連續創業者。2010 年開始寫生產級程式碼，2014 年創立第一家公司，2017 年全心投入 Web3——吸引我的不是代幣，而是工程難題：在這裡，一個 bug 可能損失數百萬。
+我是 Jean。我從 2010 年開始寫生產級程式碼，2014 年開始創業。2017 年全職投入加密領域——吸引我的不是代幣，而是工程本身：在這裡，一個 bug 可能損失數百萬，每一分鐘的停機都在消耗信任。
 
-從那以後，我設計並主導了一家中心化交易所、一個鏈上永續合約交易所、一個運行在全球數千台 POS 終端上的加密支付網路，以及一套量化交易系統。
+此後，我以創始人、聯合創始人、CEO 或 CTO 的身份，把四個產品從一張白紙做到真實規模：一家中心化交易所、一個鏈上永續合約交易所、一個運行在全球數千台 POS 終端上的加密支付網路，以及一套量化交易系統。
+
+> 只要經手資金，系統就必須「無聊」——高負載下可預期、對金鑰保持偏執，並由一支不需要我在場也能運轉的團隊來維護。
 
 - **技術合夥人**：正在打造交易所、衍生品平台或支付產品？我以技術聯合創始人或合夥人的身份加入。
 - **第二雙眼睛**：投資人與團隊評估交易所、DeFi 或支付技術時，我會坦白告訴你哪些站得住。
